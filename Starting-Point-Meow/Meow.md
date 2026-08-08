@@ -43,11 +43,25 @@ cat flag.txt
 
 ![archivo_comprometido_encontrado.png](archivo_comprometido_encontrado.png)
 
-## Anexo: Leyenda de Comandos y Referencia Rápida
+---
+
+## Anexo A: Conceptos Clave de la Máquina
+
+Durante la resolución de esta máquina de nivel inicial, se han introducido y validado los siguientes conceptos fundamentales:
+
+- **Virtual Machine (VM):** En ciberseguridad, los entornos aislados como las máquinas objetivo o los Pwnbox suelen ser Máquinas Virtuales.
+- **Terminal:** Consola o *shell* utilizada para interactuar con el sistema operativo y enviar instrucciones mediante línea de comandos.
+- **OpenVPN:** Servicio de red empleado para establecer el túnel privado y conectarse de forma segura a los laboratorios de HTB.
+- **Telnet:** Protocolo de red que opera por defecto en el puerto **23/tcp**. Permite el acceso remoto a consolas, pero es altamente inseguro ya que transmite la información en texto plano.
+- **Mala configuración de privilegios:** El vector de entrada consistió en aprovechar que el servicio Telnet permitía el inicio de sesión con el usuario `root` y una contraseña en blanco. La flag de validación se encontraba alojada en el directorio personal (home) de este usuario.
+
+## Anexo B: Leyenda de Comandos y Referencia Rápida
 
 | Comando / Herramienta | Sintaxis de Ejemplo | Descripción y Utilidad |
 | --- | --- | --- |
-| **Telnet** | `telnet -l root <IP>` | Protocolo de red heredado para establecer sesiones de terminal remota en texto plano. El parámetro `-l root` especifica el usuario con el que se desea autenticar directamente. |
-| **Listar Archivos** | `ls /` | Muestra el contenido (archivos y directorios) de la ruta especificada. En este caso, para explorar el directorio raíz del sistema. |
+| **Ping** | `ping <IP>` | Utilidad de red que envía una solicitud de eco ICMP (*ICMP echo request*) para comprobar la conectividad contra el objetivo. |
+| **Nmap** | `nmap <IP>` | Es la herramienta más común para encontrar puertos abiertos y descubrir servicios en una máquina objetivo. |
+| **Telnet** | `telnet -l root <IP>` | Establece una sesión de terminal remota en texto plano. El parámetro `-l root` especifica el usuario con el que se desea autenticar directamente. |
+| **Listar Archivos** | `ls /` | Muestra el contenido (archivos y directorios) de la ruta especificada. En este caso, explora el directorio raíz del sistema. |
 | **Cambio de Directorio** | `cd /root` | Permite navegar y cambiar el directorio de trabajo actual dentro del sistema de archivos hacia la ruta indicada (`/root`). |
 | **Visualizar Archivos** | `cat flag.txt` | Lee y muestra por pantalla el contenido completo de un archivo de texto plano directamente en la terminal. |
