@@ -1,6 +1,6 @@
 # HTB: Meow (Starting Point)
 
-# HackTheBox Write-up: Fawn (Starting Point - Tier 0)
+# HackTheBox Write-up: Meow (Starting Point - Tier 0)
 
 **Autor:** Alejandro Torres | Ingeniero de Sistemas de Telecomunicación
 
