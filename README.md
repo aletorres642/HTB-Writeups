@@ -6,7 +6,7 @@ Mis write-ups y resoluciones de máquinas y laboratorios de HackTheBox. Este rep
 
 ## 📚 Índice de Máquinas
 
-### 🟢 Starting Point - Tier 0
+### 🟢 Starting Point - Tier 0: Foundations
 
 | Máquina | Dificultad | SO | Protocolo Objetivo | Estado | Write-up |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -15,7 +15,7 @@ Mis write-ups y resoluciones de máquinas y laboratorios de HackTheBox. Este rep
 | **Dancing**| Very Easy | Windows | SMB (445/tcp) | ✅ Pwned | [Ver documento](./Starting-Point-Dancing/Dancing.md) |
 | **Redemeer**| Very Easy | Linux | Redis (6379/tcp) | ✅ Pwned | [Ver documento](./Starting-Point-Redemeer/Redemeer.md) |
 
-### 🟢 Starting Point - Tier 1
+### 🟢 Starting Point - Tier 1: Fundamental Exploitation
 
 | Máquina | Dificultad | SO | Protocolo Objetivo | Estado | Write-up |
 | :--- | :--- | :--- | :--- | :---: | :--- |
