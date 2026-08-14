@@ -20,6 +20,7 @@ Mis write-ups y resoluciones de máquinas y laboratorios de HackTheBox. Este rep
 | Máquina | Dificultad | SO | Protocolo Objetivo | Estado | Write-up |
 | :--- | :--- | :--- | :--- | :---: | :--- |
 | **Appointment**| Very Easy | Linux | HTTP (80/tcp) | ✅ Pwned | [Ver documento](./Starting-Point-Appointment/Appointment.md) |
+| **Sequel**| Very Easy | Linux | MySQL (3306/tcp) | ✅ Pwned | [Ver documento](./Starting-Point-Sequel/Sequel.md) |
 
 ---
 *Autor: Alejandro Torres*
