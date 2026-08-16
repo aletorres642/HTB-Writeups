@@ -1,7 +1,5 @@
 # HTB: Appointment (Starting Point)
 
-# HackTheBox Write-up: Appointment (Starting Point - Tier 1)
-
 **Autor:** Alejandro Torres | Ingeniero de Sistemas de Telecomunicación
 
 **Plataforma:** HackTheBox

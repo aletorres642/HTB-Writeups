@@ -1,7 +1,5 @@
 # HTB: Redemeer (Starting Point)
 
-# HackTheBox Write-up: Redemeer (Starting Point - Tier 0)
-
 **Autor:** Alejandro Torres | Ingeniero de Sistemas de Telecomunicación
 
 **Plataforma:** HackTheBox

@@ -1,7 +1,5 @@
 # HTB: Dancing (Starting Point)
 
-# HackTheBox Write-up: Dancing (Starting Point - Tier 0)
-
 **Autor:** Alejandro Torres | Ingeniero de Sistemas de Telecomunicación
 
 **Plataforma:** HackTheBox

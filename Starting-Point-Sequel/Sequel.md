@@ -1,4 +1,4 @@
-# HackTheBox Write-up: Sequel (Starting Point - Tier 1)
+# HTB: Sequel (Starting Point)
 
 **Autor:** Alejandro Torres | Ingeniero de Sistemas de Telecomunicación
 
