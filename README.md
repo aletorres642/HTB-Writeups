@@ -22,6 +22,7 @@ Mis write-ups y resoluciones de máquinas y laboratorios de HackTheBox. Este rep
 | **Appointment**| Very Easy | Linux | HTTP (80/tcp) | ✅ Pwned | [Ver documento](./Starting-Point-Appointment/Appointment.md) |
 | **Sequel**| Very Easy | Linux | MySQL (3306/tcp) | ✅ Pwned | [Ver documento](./Starting-Point-Sequel/Sequel.md) |
 | **Crocodile**| Very Easy | Linux | FTP (21/tcp), HTTP (80/tcp) | ✅ Pwned | [Ver documento](./Starting-Point-Crocodile/Crocodile.md) |
+| **Responder** | Very Easy | Windows | HTTP (80/tcp), WinRM (5985/tcp) | ✅ Pwned | [Ver documento](./Starting-Point-Responder/Responder.md) |
 
 ---
 *Autor: Alejandro Torres*
