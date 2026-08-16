@@ -1,7 +1,5 @@
 # HTB: Fawn (Starting Point)
 
-# HackTheBox Write-up: Fawn (Starting Point - Tier 0)
-
 **Autor:** Alejandro Torres | Ingeniero de Sistemas de Telecomunicación
 
 **Plataforma:** HackTheBox
