@@ -13,7 +13,7 @@ Mis write-ups y resoluciones de máquinas y laboratorios de HackTheBox. Este rep
 | **Meow** | Very Easy | Linux | Telnet (23/tcp) | ✅ Pwned | [Ver documento](./Starting-Point-Meow/Meow.md) |
 | **Fawn** | Very Easy | Linux | FTP (21/tcp) | ✅ Pwned | [Ver documento](./Starting-Point-Fawn/Fawn.md) |
 | **Dancing**| Very Easy | Windows | SMB (445/tcp) | ✅ Pwned | [Ver documento](./Starting-Point-Dancing/Dancing.md) |
-| **Redemeer**| Very Easy | Linux | Redis (6379/tcp) | ✅ Pwned | [Ver documento](./Starting-Point-Redemeer/Redemeer.md) |
+| **Redeemer**| Very Easy | Linux | Redis (6379/tcp) | ✅ Pwned | [Ver documento](./Starting-Point-Redeemer/Redeemer.md) |
 
 ### 🟢 Starting Point - Tier 1: Fundamental Exploitation
 

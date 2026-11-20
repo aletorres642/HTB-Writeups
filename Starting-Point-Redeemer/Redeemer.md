@@ -1,4 +1,4 @@
-# HTB: Redemeer (Starting Point)
+# HTB: Redeemer (Starting Point)
 
 **Autor:** Alejandro Torres | Ingeniero de Sistemas de Telecomunicación
 
